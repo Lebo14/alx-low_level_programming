@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - "with proper grammer, but the outcome is 
+ * main - "with proper grammer,but the outcome is 
  * a piece of art," followed newline
  * Return: always 0.
  */
