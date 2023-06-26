@@ -4,7 +4,7 @@
  * @str: The string to be treated
  * Return: void
  */
-void puts2(char *str);
+void puts2(char *str)
 {
 	int longi = 0;
 	int j = 0;
@@ -25,5 +25,5 @@ void puts2(char *str);
 		_putchar(str[o]);
 	}
 	}
-	_putchar('\n')
+	_putchar('\n');
 }
