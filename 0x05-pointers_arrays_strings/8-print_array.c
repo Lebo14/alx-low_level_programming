@@ -5,7 +5,7 @@
  * @n: number of elements of array to be printed
  * Return: void
  */
-void print_array(int *a, n)
+void print_array(int *a, int n)
 {
 	int j;
 
@@ -17,5 +17,5 @@ void print_array(int *a, n)
 			printf(", ");
 		}
 	}
-	printf('\n');
+	printf("\n");
 }
